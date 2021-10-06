@@ -2,7 +2,7 @@
 
 ## Visualization Solution
 
-* [Solution](https://public.tableau.com/profile/trilogy4111#!/vizhome/TableauHW-Basic_15633813095570/PopularStartingLocations-Map?publish=yes)
+* [Solution](https://public.tableau.com/app/profile/ariel2903/viz/CitiBike_16335484614600/CitiBikeDashboard?publish=yes)
 
 ## Write Up Solution
 
