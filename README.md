@@ -1,5 +1,7 @@
 # citybiketableau
 
+![Image 10-14-21 at 10 05 PM](https://user-images.githubusercontent.com/82057838/137420833-cc1fbfd8-1e23-4d3b-9e97-0f4476ddbfd5.jpg)
+
 ## Visualization Solution
 
 * [Solution](https://public.tableau.com/app/profile/ariel2903/viz/CitiBike_16335484614600/CitiBikeDashboard?publish=yes)
